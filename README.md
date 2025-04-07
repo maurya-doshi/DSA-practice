@@ -11,9 +11,9 @@ I am primarily using [this guide](https://www.programiz.com/dsa/getting-started)
 - Organized folder structure by topic for neatness.
 - Files are named iteratively based on the topic and order of practice.
 
-**Example:**
-Stacks/stack0.c — Basics of stacks
-Stacks/stack1.c — Reversing a word using stacks
+**Example:**  
+🗂️ Stacks/stack0.c — Basics of stacks  
+🗂️ Stacks/stack1.c — Reversing a word using stacks
 
 And so on!
 
