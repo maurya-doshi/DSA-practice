@@ -1,3 +1,20 @@
+# 📚 DSA Practice in C
+
+Welcome to my Data Structures and Algorithms (DSA) practice repository! 🚀  
+This is my personal workspace where I’m building my understanding of core data structures and algorithms while sharpening my C programming skills.
+
+## 📌 Reference
+I am primarily using [this guide](https://www.programiz.com/dsa/getting-started) as my main reference for foundational concepts. However, it is not the sole source of my problems or exercises.
+
+## 🛠️ What’s Inside
+- Solutions to DSA problems written in C 🧩
+- Organized folder structure by topic for neatness.
+- Files are named iteratively based on the topic and order of practice.
+
+**Example:**
+Stacks/stack0.c — Basics of stacks
+Stacks/stack1.c — Reversing a word using stacks
+
 And so on!
 
 - Clear and descriptive commit messages to track progress effectively.
