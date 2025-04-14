@@ -98,9 +98,6 @@ If you’d like to connect, discuss DSA, or simply share programming insights:
 - [GitHub](https://github.com/maurya-doshi)
 - [LinkedIn](https://linkedin.com/in/maurya-doshi)
 
-## ⭐️ Support
-If you find this repository useful, please consider giving it a ⭐️! Your support keeps this journey going.
-
 ---
 
 # 🧩 This repository runs on **C**, **curiosity**, and **copious amounts of caffeine**. ☕️🚀
