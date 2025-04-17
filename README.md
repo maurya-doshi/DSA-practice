@@ -1,5 +1,10 @@
 # 📚 DSA Practice in C
 
+![Language](https://img.shields.io/badge/Language-C-blue)
+![Purpose](https://img.shields.io/badge/Purpose-DSA%20Practice-orange)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 Welcome to my Data Structures and Algorithms (DSA) practice repository! 🚀  
 This is my personal workspace where I’m building my understanding of core data structures and algorithms while sharpening my C programming skills.
 
@@ -24,7 +29,7 @@ And so on!
 Based on my reference structure, here’s the roadmap I’m following, organized for clarity:
 
 ### Data Structures (I)
-- [ ] Stack
+- [x] Stack
 - [ ] Queue
 - [ ] Deque
 
